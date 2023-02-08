@@ -8,4 +8,4 @@ Let's find out.
 
 # Problem Statement:
 
-Conduct an EDA on the Google Play Store data and try to explore whether given the data, ratings of an can be predicted
+Conduct an EDA on the Google Play Store data and try to explore whether given the data can solve intersting questions that can solve buisness problems.
